@@ -1,5 +1,5 @@
 # aragorn
-Small, distroless-when-possible container for `aragorn`.
+Small compatibility-focused container for `aragorn`.
 
 ## how to use
 ```bash

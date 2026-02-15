@@ -1,4 +1,4 @@
-name: Build and Publish Distroless aragorn
+name: Build and Publish aragorn
 
 on:
   push:
