@@ -1,7 +1,12 @@
 # aragorn
 Small compatibility-focused container for `aragorn`.
 
-## how to use
+## Quick Usage
+
 ```bash
-docker run --rm -v "$(pwd):/data" picotainers/aragorn:latest --help
+# Pull the image
+docker pull docker.io/picotainers/aragorn:latest
+
+# Run the tool
+docker run --rm -v "$(pwd):/data" docker.io/picotainers/aragorn:latest --help
 ```
